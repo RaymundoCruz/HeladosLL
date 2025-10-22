@@ -15,7 +15,7 @@ body {
 }
 
 header{
-  height: auto;
+  height: 150px;
 }
 
 .container {
@@ -70,4 +70,5 @@ header{
   margin-top:5px;
   margin-bottom: 10px;
 }
+
 
